@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/transactions.csv
+out/
+checkpoint/
+checkpoints/
+.venv/
+.env
